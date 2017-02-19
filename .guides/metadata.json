@@ -1,0 +1,81 @@
+{
+ "sections": [
+  {
+   "id": "7f141846-8a3f-c175-a13c-38c7bf7dd7c8",
+   "title": "Real-World Systems",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Real-World-Systems-7f14.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "91629226-02de-7058-62bf-bda3d2d4d394",
+   "title": "Disease Transmission",
+   "files": [
+    {
+     "path": "DiseaseApp/disease.flode",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Disease-Transmission-9162.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "32135e2e-c5bb-3c97-3aea-fc20050ad92f",
+   "title": "Real-World Application",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "DiseaseApp/Disease.py",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Real-World-Application-3213.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "cddcc911-9c82-e133-30f9-da90dd743c17",
+   "title": "Real-World Quiz",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Real-World-Quiz-cddc.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}
