@@ -2,15 +2,10 @@
 |||guidance
 # Solution
 **Traffic**
-
 **Birds & Flocking Behavior**
-
 **Watersheds and potential flooding**
-
 **Voting and election results**
-
 **Weather**
-
 **Disease Transmission**
 |||
 {Check It!|assessment}(multiple-choice-3445949494)
